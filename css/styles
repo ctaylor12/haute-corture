@@ -38,4 +38,6 @@ blockquote {
 
 blockquote {
     font-size: 2em;
+    padding: 0 4em;
+    text-align: center;
 }
